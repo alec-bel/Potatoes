@@ -51,6 +51,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.abeljan.potatoes.MainActivity" />
         </activity>
+
+        <meta-data
+            android:name="come.google.android.geo.API_KEY"
+            android:value="AIzaSyCWMkSlVn1HgLB4qwhT82WgxuJ_udfWr7I" />
     </application>
 
 </manifest>
