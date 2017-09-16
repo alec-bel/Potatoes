@@ -28,9 +28,6 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        MapFragment mapFrag = MapFragment.newInstance();
-        mapFrag.getMapAsync(this);
-
         scoreboard_btn = (Button) findViewById(R.id.scoreboard_btn);
         scoreboard_btn.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view){
@@ -38,6 +35,9 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
                 startActivity(i);
             }
         });
+
+        MapFragment mapFrag = (MapFragment) getFragmentManager().findFragmentById(R.id.gmap);
+        mapFrag.getMapAsync(this);
     }
 
     @Override
