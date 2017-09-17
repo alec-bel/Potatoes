@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160379891201",
+    "firebase_url": "https://potates-f088d.firebaseio.com",
+    "project_id": "potates-f088d",
+    "storage_bucket": "potates-f088d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160379891201:android:570c33f4f5fc8d63",
+        "android_client_info": {
+          "package_name": "com.example.google.playservices.placecompletefragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160379891201-vqvptnp2ne8q0b81iunph0skhs3t1d2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google.playservices.placecompletefragment",
+            "certificate_hash": "394104845f573534ddfc9f0b3a8dd1932e2fbe8c"
+          }
+        },
+        {
+          "client_id": "160379891201-09j9lruq001jifud7qlnu0aoum55p2if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9b7umRdtIHV8CkTgboR3KHkYOCoOzao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160379891201-09j9lruq001jifud7qlnu0aoum55p2if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
