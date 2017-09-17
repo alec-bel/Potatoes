@@ -36,12 +36,12 @@
         "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
-        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
-    },
-    {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/cast_ic_notification_2.png",
         "source": "/home/ivan/.android/build-cache/b680f468595b4ffe36c27563872324d88d25b307/output/res/drawable-hdpi/cast_ic_notification_2.png"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png",
@@ -52,12 +52,12 @@
         "source": "/home/ivan/.android/build-cache/b680f468595b4ffe36c27563872324d88d25b307/output/res/drawable-hdpi/cast_ic_notification_on.png"
     },
     {
-        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_cast_on_light.png",
-        "source": "/home/ivan/.android/build-cache/3724274eebe95fb536ed5fdaa8a181a7b4b8b776/output/res/drawable-hdpi/ic_cast_on_light.png"
-    },
-    {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png",
         "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_cast_on_light.png",
+        "source": "/home/ivan/.android/build-cache/3724274eebe95fb536ed5fdaa8a181a7b4b8b776/output/res/drawable-hdpi/ic_cast_on_light.png"
     },
     {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png",
@@ -140,36 +140,36 @@
         "source": "/home/ivan/.android/build-cache/3724274eebe95fb536ed5fdaa8a181a7b4b8b776/output/res/drawable-hdpi/ic_setting_light.png"
     },
     {
-        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_media_play.png",
-        "source": "/home/ivan/.android/build-cache/3724274eebe95fb536ed5fdaa8a181a7b4b8b776/output/res/drawable-hdpi/ic_media_play.png"
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/places_ic_clear.png",
+        "source": "/home/ivan/.android/build-cache/9955fe4c969216aede0773505d68d27948e30ac5/output/res/drawable-hdpi/places_ic_clear.png"
     },
     {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_focused_holo.9.png",
         "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/drawable-hdpi/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/places_ic_clear.png",
-        "source": "/home/ivan/.android/build-cache/9955fe4c969216aede0773505d68d27948e30ac5/output/res/drawable-hdpi/places_ic_clear.png"
-    },
-    {
-        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png",
-        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png"
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_media_play.png",
+        "source": "/home/ivan/.android/build-cache/3724274eebe95fb536ed5fdaa8a181a7b4b8b776/output/res/drawable-hdpi/ic_media_play.png"
     },
     {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
         "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_light_pressed.9.png",
         "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-hdpi/common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/cast_ic_notification_0.png",
-        "source": "/home/ivan/.android/build-cache/b680f468595b4ffe36c27563872324d88d25b307/output/res/drawable-hdpi/cast_ic_notification_0.png"
-    },
-    {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
         "source": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/cast_ic_notification_0.png",
+        "source": "/home/ivan/.android/build-cache/b680f468595b4ffe36c27563872324d88d25b307/output/res/drawable-hdpi/cast_ic_notification_0.png"
     },
     {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png",

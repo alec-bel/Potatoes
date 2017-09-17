@@ -241,7 +241,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="e18a6eac3aa8897a0368db33b8c5299c0bdb9a8a">
+        sha1="0455cc870521984511bf11aa90a68eba8fa62fa5">
         <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f165c747bd5d3202825fe941fdb5f27106250ee4/classes.dex" />
     </item>
     <item

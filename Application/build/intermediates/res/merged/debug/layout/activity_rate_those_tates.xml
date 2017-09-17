@@ -5,24 +5,29 @@ xmlns:tools="http://schemas.android.com/tools"
 android:layout_width="match_parent"
 android:layout_height="match_parent"
 android:orientation="vertical"
+    android:background="#FFFFBB66"
 tools:context="com.example.google.playservices.placecompletefragment.RateThoseTates">
 <TextView
     android:id="@+id/rest_name"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:textAlignment="center"
-    android:textSize="18sp"
+    android:textSize="30sp"
     android:layout_marginBottom="20dp"
-    android:layout_marginTop="10dp"/>
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft = "20dp"
+    android:textColor="#FFFFFF"/>
 
 <TextView
     android:id="@+id/textView6"
-    android:layout_width="378dp"
+    android:layout_width="wrap_content"
     android:layout_height="128dp"
     android:text="Rate Those TATES!!!"
+    android:layout_gravity="center"
     android:textAlignment="center"
     android:textAppearance="@style/TextAppearance.AppCompat.Headline"
-    android:textSize="36sp" />
+    android:textSize="40sp"
+    />
 
 <LinearLayout
     android:layout_width="match_parent"
@@ -33,7 +38,8 @@ tools:context="com.example.google.playservices.placecompletefragment.RateThoseTa
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Good Tates"
-        android:layout_marginStart="50dp"
+        android:layout_marginLeft="80dp"
+        android:layout_gravity="center"
         />
 
     <Button
@@ -41,7 +47,8 @@ tools:context="com.example.google.playservices.placecompletefragment.RateThoseTa
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Bad Tates"
-        android:layout_marginLeft="50dp" />
+        android:layout_marginLeft="90dp"
+        android:layout_gravity="center"/>
 
 </LinearLayout>
 <LinearLayout
@@ -53,6 +60,8 @@ tools:context="com.example.google.playservices.placecompletefragment.RateThoseTa
         android:layout_height="wrap_content"
         android:text="Current Rating:"
         android:textSize="30sp"
+        android:layout_marginLeft = "20dp"
+        android:textColor="#FFFFFF"
         />
 
 
@@ -63,6 +72,8 @@ tools:context="com.example.google.playservices.placecompletefragment.RateThoseTa
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:textSize="24sp"
+        android:layout_marginLeft="10dp"
+        android:textColor ="#FFFFFF"
         />
 </LinearLayout>
 </LinearLayout>

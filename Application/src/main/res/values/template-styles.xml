@@ -22,7 +22,9 @@
 
     <style name="Theme.Sample" parent="Theme.Base" />
 
-    <style name="AppTheme" parent="Theme.Sample" />
+    <style name="AppTheme" parent="Theme.Sample" >
+        <item name="android:colorForeground">@android:color/holo_orange_light</item>
+    </style>
     <!-- Widget styling -->
 
     <style name="Widget" />

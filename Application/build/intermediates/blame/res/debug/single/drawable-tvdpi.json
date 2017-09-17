@@ -1,23 +1,23 @@
 [
     {
-        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png"
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png",
         "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png",
-        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png"
-    },
-    {
-        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png",
         "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png",

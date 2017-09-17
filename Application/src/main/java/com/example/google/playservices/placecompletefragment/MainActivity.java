@@ -35,6 +35,12 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
 
     private GoogleMap gMap;
 
+    private double[] ratings = {.13, .8, .75, .56, .94};
+    private String[] places = {"Angelo's", "Fleetwood Diner", "Frank's Restaurant", "Hunter House Hamburgers", "Afternoon Delight" };
+    private int[] totVotes = {204, 198, 100, 199, 196};
+    private int[] numVotes = {26, 159, 75, 111, 185};
+    private boolean first = true;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -56,6 +62,7 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
         // Set up map fragment
         MapFragment mapFrag = (MapFragment) getFragmentManager().findFragmentById(R.id.gmap);
         mapFrag.getMapAsync(this);
+
     }
 
     void debug_show_place(Place place) {
@@ -122,7 +129,7 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
     }
 
     double db_current_rating(String id) {
-        return 0.5;
+        return 0;
     }
 
     @Override
@@ -131,6 +138,20 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
         intent.putExtra("name", marker.getTitle());
         intent.putExtra("location", marker.getPosition().toString());
         intent.putExtra("current_rating", db_current_rating(marker.getId()));
+        boolean found = false;
+        for (int k = 0; k < 5; ++k){
+            if (marker.getTitle().equals(places[k])){
+                intent.putExtra("spot", k);
+                found = true;
+            }
+        }
+        if (!found){
+            intent.putExtra("spot", -1);
+        }
+        intent.putExtra("ratings", ratings);
+        intent.putExtra("totVotes", totVotes);
+        intent.putExtra("numVotes", numVotes);
+
 
         startActivity(intent);
         return true;
