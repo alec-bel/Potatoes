@@ -55,6 +55,8 @@
         <meta-data
             android:name="come.google.android.geo.API_KEY"
             android:value="AIzaSyCWMkSlVn1HgLB4qwhT82WgxuJ_udfWr7I" />
+
+        <activity android:name=".RateThoseTates"></activity>
     </application>
 
 </manifest>
