@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ivan/.android/build-cache/8d72c7d3dde15dc47b46732561cd68de92428ac4/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ivan/.android/build-cache/8d72c7d3dde15dc47b46732561cd68de92428ac4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ivan/.android/build-cache/8d72c7d3dde15dc47b46732561cd68de92428ac4/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/ivan/.android/build-cache/65f26f33cf45c31845ea195015645ce59f4745cb/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ivan/.android/build-cache/8d72c7d3dde15dc47b46732561cd68de92428ac4/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -18,6 +18,8 @@ public class RateThoseTates extends Activity {
 
     Button good;
     Button bad;
+    int spot;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,12 +32,11 @@ public class RateThoseTates extends Activity {
         final int[] totVotes = i.getIntArrayExtra("totVotes");
         final int[] numVotes = i.getIntArrayExtra("numVotes");
         final double[] ratings = i.getDoubleArrayExtra("ratings");
-        final int spot = i.getIntExtra("spot", -1);
+        spot = i.getIntExtra("spot", -1);
 
-        if (spot != -1){
+        if (spot != -1) {
             mCurrent_rating = ratings[spot];
         }
-
 
         ////Alec's not sure if this works
         final TextView rest_name = (TextView) findViewById(R.id.rest_name);
@@ -55,19 +56,17 @@ public class RateThoseTates extends Activity {
         good.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
             if (spot != -1) {
-
-
                 numVotes[spot]++;
                 totVotes[spot]++;
                 ratings[spot] = numVotes[spot]*1.0/totVotes[spot];
             }
 
-                Intent k = new Intent (RateThoseTates.this, MainActivity.class);
+                Intent k = new Intent ();
                 k.putExtra("ratings", ratings);
                 k.putExtra("totVotes", totVotes);
                 k.putExtra("numVotes", numVotes);
-                startActivity(k);
-            //finish();
+                setResult(RESULT_OK, k);
+                finish();
         }
 
         });
@@ -79,12 +78,12 @@ public class RateThoseTates extends Activity {
                 totVotes[spot]++;
                 ratings[spot] = numVotes[spot]*1.0/totVotes[spot];
             }
-                Intent k = new Intent (RateThoseTates.this, MainActivity.class);
+                Intent k = new Intent ();
                 k.putExtra("ratings", ratings);
                 k.putExtra("totVotes", totVotes);
                 k.putExtra("numVotes", numVotes);
-                startActivity(k);
-                //finish();
+                setResult(RESULT_OK, k);
+                finish();
             }
         });
 

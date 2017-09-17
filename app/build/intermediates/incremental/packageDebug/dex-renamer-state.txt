@@ -1,0 +1,7 @@
+#Sun Sep 17 03:47:12 EDT 2017
+base.0=/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_736a5f49716bb016755a247e381206fa5ba9339b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e594bfc7817dc57165ac918d2fb7b41d515801b/classes.dex
+base.1=/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e594bfc7817dc57165ac918d2fb7b41d515801b
+file.0=/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_736a5f49716bb016755a247e381206fa5ba9339b/classes.dex

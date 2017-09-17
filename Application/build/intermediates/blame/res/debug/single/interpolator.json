@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/ivan/.android/build-cache/cef2649636e66dce4d6e545841724b4a11c395dc/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/ivan/.android/build-cache/cef2649636e66dce4d6e545841724b4a11c395dc/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

@@ -26,6 +26,8 @@ import android.text.TextUtils;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.util.ArrayList;
+
 public class MainActivity extends SampleActivityBase implements PlaceSelectionListener, OnMapReadyCallback,
         GoogleMap.OnMarkerClickListener {
 
@@ -35,18 +37,19 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
 
     private GoogleMap gMap;
 
-    private double[] ratings = {.13, .8, .75, .56, .94};
+    private int[] totVotes;
+    private int[] numVotes;
+    private double[] ratings;
+
     private String[] places = {"Angelo's", "Fleetwood Diner", "Frank's Restaurant", "Hunter House Hamburgers", "Afternoon Delight" };
-    private int[] totVotes = {204, 198, 100, 199, 196};
-    private int[] numVotes = {26, 159, 75, 111, 185};
-    private boolean first = true;
+
+    private ArrayList<Thing> things;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_main);
-
         // Retrieve the PlaceAutocompleteFragment.
         PlaceAutocompleteFragment autocompleteFragment = (PlaceAutocompleteFragment)
                 getFragmentManager().findFragmentById(R.id.autocomplete_fragment);
@@ -62,6 +65,9 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
         // Set up map fragment
         MapFragment mapFrag = (MapFragment) getFragmentManager().findFragmentById(R.id.gmap);
         mapFrag.getMapAsync(this);
+        totVotes = new int[]{204, 198, 100, 199, 196};
+        numVotes = new int[]{26, 159, 75, 111, 185};
+        ratings = new double[]{.13, .8, .75, .56, .94};
 
     }
 
@@ -152,8 +158,23 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
         intent.putExtra("totVotes", totVotes);
         intent.putExtra("numVotes", numVotes);
 
-
         startActivity(intent);
         return true;
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (resultCode == RESULT_OK){
+            if (data.hasExtra("ratings")){
+                ratings = data.getExtras().getDoubleArray("ratings");
+            }
+            if (data.hasExtra("numVotes")){
+                numVotes = data.getExtras().getIntArray("numVotes");
+            }
+            if (data.hasExtra("totVotes")){
+                totVotes = data.getExtras().getIntArray("totVotes");
+            }
+        }
+
     }
 }

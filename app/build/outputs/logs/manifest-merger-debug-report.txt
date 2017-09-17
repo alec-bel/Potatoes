@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:12:5-60:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ivan/.android/build-cache/e76fad04ad30cae1d270598d971cfd01dbcc6576/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/ivan/.android/build-cache/56c8056e92d85a94be0f3bb0a40e9dd313c404c8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ivan/.android/build-cache/8d72c7d3dde15dc47b46732561cd68de92428ac4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ivan/.android/build-cache/b371085732c7be13e2a72781ec91701b64b19fc7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ivan/.android/build-cache/53e9b8168d0ada67df44c7c4042c98a715678b04/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/ivan/.android/build-cache/7ce45f7a20d66788bb49d4cb620fe446265c06e0/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /home/ivan/.android/build-cache/65f26f33cf45c31845ea195015645ce59f4745cb/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/ivan/.android/build-cache/ddc9532345f3e402fe147e0d03e19c304d77cefa/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/ivan/.android/build-cache/9454a891b86aa459a48f4ee9788be92b34aecc26/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/ivan/.android/build-cache/dceecc7e225571f9062feacc37fe22e35b76dcd0/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/ivan/.android/build-cache/9ba6b0dabc93459b8380f8ba316dfdc070dca2ce/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ivan/.android/build-cache/b5b3e452fff5c2ba1e705b9840e6075812b55603/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ivan/.android/build-cache/e95bb01e1a3a2f6c708c7e5e4b0c0fc2b707bde1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ivan/.android/build-cache/e4044c3078a5c09dba41eee333f1ebab65d89245/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ivan/.android/build-cache/01415f18a1db68c67ec233bae7e6d502830020cf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ivan/.android/build-cache/51be3662ad48a18b7ec910b517ef55c08988ca0c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ivan/.android/build-cache/79073b955b62acfe7837c4650778490c605816fd/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.abeljan.potatoes.MainActivity
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:19:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:23:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:34:9-36:55
+	android:value
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:35:13-58
+activity#com.example.abeljan.potatoes.MapsActivity
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:38:9-44:20
+	android:label
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:39:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:41:13-43:77
+	android:value
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:43:17-74
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:42:17-63
+activity#com.example.abeljan.potatoes.ViewRanking
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:47:13-64
+	android:parentActivityName
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:48:13-55
+	android:theme
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:46:13-40
+meta-data#come.google.android.geo.API_KEY
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:55:9-57:71
+	android:value
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:57:13-68
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:56:13-59
+activity#com.example.abeljan.potatoes.RateThoseTates
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:59:9-61
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml:59:19-49
+uses-sdk
+INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ivan/.android/build-cache/e76fad04ad30cae1d270598d971cfd01dbcc6576/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/ivan/.android/build-cache/56c8056e92d85a94be0f3bb0a40e9dd313c404c8/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ivan/.android/build-cache/8d72c7d3dde15dc47b46732561cd68de92428ac4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ivan/.android/build-cache/b371085732c7be13e2a72781ec91701b64b19fc7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ivan/.android/build-cache/53e9b8168d0ada67df44c7c4042c98a715678b04/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/ivan/.android/build-cache/84b8ebd74e312944f1ee47f9a5cb361ec191a8dc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/ivan/.android/build-cache/7ce45f7a20d66788bb49d4cb620fe446265c06e0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /home/ivan/.android/build-cache/65f26f33cf45c31845ea195015645ce59f4745cb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/ivan/.android/build-cache/ddc9532345f3e402fe147e0d03e19c304d77cefa/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/ivan/.android/build-cache/9454a891b86aa459a48f4ee9788be92b34aecc26/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/ivan/.android/build-cache/dceecc7e225571f9062feacc37fe22e35b76dcd0/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/ivan/.android/build-cache/9ba6b0dabc93459b8380f8ba316dfdc070dca2ce/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ivan/.android/build-cache/b5b3e452fff5c2ba1e705b9840e6075812b55603/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ivan/.android/build-cache/e95bb01e1a3a2f6c708c7e5e4b0c0fc2b707bde1/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ivan/.android/build-cache/e4044c3078a5c09dba41eee333f1ebab65d89245/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ivan/.android/build-cache/01415f18a1db68c67ec233bae7e6d502830020cf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ivan/.android/build-cache/51be3662ad48a18b7ec910b517ef55c08988ca0c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ivan/.android/build-cache/79073b955b62acfe7837c4650778490c605816fd/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/ivan/.android/build-cache/56c8056e92d85a94be0f3bb0a40e9dd313c404c8/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/ivan/.android/build-cache/56c8056e92d85a94be0f3bb0a40e9dd313c404c8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ivan/.android/build-cache/8d72c7d3dde15dc47b46732561cd68de92428ac4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ivan/.android/build-cache/b371085732c7be13e2a72781ec91701b64b19fc7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ivan/.android/build-cache/53e9b8168d0ada67df44c7c4042c98a715678b04/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/ivan/.android/build-cache/84b8ebd74e312944f1ee47f9a5cb361ec191a8dc/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/ivan/.android/build-cache/7ce45f7a20d66788bb49d4cb620fe446265c06e0/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ivan/.android/build-cache/b5b3e452fff5c2ba1e705b9840e6075812b55603/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ivan/.android/build-cache/e95bb01e1a3a2f6c708c7e5e4b0c0fc2b707bde1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ivan/.android/build-cache/e4044c3078a5c09dba41eee333f1ebab65d89245/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ivan/.android/build-cache/01415f18a1db68c67ec233bae7e6d502830020cf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ivan/.android/build-cache/51be3662ad48a18b7ec910b517ef55c08988ca0c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ivan/.android/build-cache/79073b955b62acfe7837c4650778490c605816fd/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/ivan/.android/build-cache/56c8056e92d85a94be0f3bb0a40e9dd313c404c8/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/ivan/.android/build-cache/56c8056e92d85a94be0f3bb0a40e9dd313c404c8/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ivan/.android/build-cache/ddc9532345f3e402fe147e0d03e19c304d77cefa/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ivan/.android/build-cache/ddc9532345f3e402fe147e0d03e19c304d77cefa/output/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ivan/.android/build-cache/ddc9532345f3e402fe147e0d03e19c304d77cefa/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ivan/.android/build-cache/ddc9532345f3e402fe147e0d03e19c304d77cefa/output/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ivan/.android/build-cache/ddc9532345f3e402fe147e0d03e19c304d77cefa/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ivan/.android/build-cache/ddc9532345f3e402fe147e0d03e19c304d77cefa/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ivan/.android/build-cache/ddc9532345f3e402fe147e0d03e19c304d77cefa/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/ivan/.android/build-cache/9454a891b86aa459a48f4ee9788be92b34aecc26/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/ivan/.android/build-cache/9454a891b86aa459a48f4ee9788be92b34aecc26/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/ivan/.android/build-cache/9454a891b86aa459a48f4ee9788be92b34aecc26/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/ivan/.android/build-cache/9454a891b86aa459a48f4ee9788be92b34aecc26/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/ivan/.android/build-cache/9ba6b0dabc93459b8380f8ba316dfdc070dca2ce/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/ivan/.android/build-cache/9ba6b0dabc93459b8380f8ba316dfdc070dca2ce/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/ivan/.android/build-cache/9ba6b0dabc93459b8380f8ba316dfdc070dca2ce/output/AndroidManifest.xml:20:20-65

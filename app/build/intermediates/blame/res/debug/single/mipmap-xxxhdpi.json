@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
