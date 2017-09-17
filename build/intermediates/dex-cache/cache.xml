@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/02cab27eee3a38f2bc863472d53a184883c90bf3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9c11d10f47556bb2ada60063f94c4f4b0fcfc42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/b680f468595b4ffe36c27563872324d88d25b307/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91ac41eff0cf4d11551333a950ac8272621e1e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/536f04145c488afaf161b38faba0cc43a5f64c4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_145d8b975e62cdef1d05080b034a9764747cb3a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e31930f3626e75db9cb632a1efe95f067501e0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/3724274eebe95fb536ed5fdaa8a181a7b4b8b776/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_edde5663b015179899a8c89ab604ee878877b13a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ea9cc359bca9c01bacad7d66ca9f1112d13a9cbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/0d05fd8979e77f36c1fdb074ca86169fe0882d79/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_563b803c4ca0d82cd51d99637a65813c318a23e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e06f6da89d649f637896bbec90650e5401c7b876/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/2f6ec78c1a97e2e02f61b983c155692bcdb515a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ba78fd772e8f1ab13f5709b3e02210d031bf317/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/3f74ceb68f598a52cd58265585c9f856b36c504f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47dd3a3ad0563e3c539172d1e95724d4a844013c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_5357e49c0f6d1285f120792c380522e690b1a51f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/b675362a56fcbe30f2c3bc4c658f62c4d67cca21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_064e4da15abc6a042807cbe05e3369df8e0b9f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/2eebf1a69d79e147ce0a22c80e2211e65e8d60b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcaa792e5b3bb4568e309cc9e77b970bc3bea1ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_135655979dcd86238fc87617f4eaad7d7cd97651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/9955fe4c969216aede0773505d68d27948e30ac5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7d47bf8a4a4527dbfad2b7bc30524d32a3322b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/8f45a52642a704fd789e92da9ab43b84949d29d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d354922858bb28e9ecb7c60b227bd98151e3b28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/11daec6225e723c16f88f2ff2c2f66fd9f422148/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1dab6d99f0f8c932b4218b098ec5f3fcdc320410/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/809efd0aed9349f862479e1b79629266420d3384/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_772d7b0e1f76b0d3572de25d27ba71e8438c981e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71595954f18a8609d38fba8763cf0b30989bed6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79a550a1dca2079eb9cf4d9397eb2cc2154de2ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/7382cbad518dfee6683d553e4fe73f4644950467/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e58fd9f8038f79afb1a204e5d7083cff447063c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/efa061e27ec32f6f993a14c466705f9513f77871/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f31718286e0c6ccc744817c48060bc994c5a985a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/205992af3004b852dfcf8d64cdd35ba865d4542c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_431429d21b9ea48bf9f445620d47677d6ac50053/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/627f8d549832ed43233b53d20458d39d043b1258/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57a1c58956a0ef51ca2bc0c9417c093733629289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/e76fad04ad30cae1d270598d971cfd01dbcc6576/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7522160c55c2c4a67243978b2d1a900e8cf825be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/95fc0e2fa16df96ce8d3ccea6b65b1f6dd31d715/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1f807ee61695e33a1232384e61ff8ad406cc2d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e18a6eac3aa8897a0368db33b8c5299c0bdb9a8a">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f165c747bd5d3202825fe941fdb5f27106250ee4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/0d05fd8979e77f36c1fdb074ca86169fe0882d79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8039a50fc85437a55555fcbda4740af5cc0678db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/cc67efbed8d60363e71884075895a9eb5ba3d098/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e7638906b15fa336183b908ed8ac77cdb5267ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/04dbaa041e6a2072db31431b470f1446d16d57e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f3801d804c963c3ba9bba1e8062d5cf8c467f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58f8fbeb87e78275b4bce9cd4e557ca8f187a2c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_8e51c088ac7c0a03a34382e5bb95a132842135bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/809efd0aed9349f862479e1b79629266420d3384/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bce76fae716a6b01febb4117b29a3acc2a36b286/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/3724274eebe95fb536ed5fdaa8a181a7b4b8b776/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58fd13a41403df878e31b18c2f2073f837ef03ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/e8eda7a8a75133f81627882cb59aeb78ffe8e189/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dab3c89895c88a332f26a8c650526855489e785a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ivan/.android/build-cache/de6965bcad6e2b9d1fb354966f332d414823dc8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_051f3da0e0c3764324a2bc75c8d56d99901f9a2c/classes.dex" />
+    </item>
+
+</items>

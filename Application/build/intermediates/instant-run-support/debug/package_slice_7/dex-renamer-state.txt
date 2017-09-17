@@ -1,0 +1,4 @@
+#Sun Sep 17 00:53:09 EDT 2017
+base.0=/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

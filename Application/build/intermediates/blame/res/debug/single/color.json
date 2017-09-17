@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/home/ivan/.android/build-cache/04dbaa041e6a2072db31431b470f1446d16d57e3/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/home/ivan/.android/build-cache/04dbaa041e6a2072db31431b470f1446d16d57e3/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/res/color/switch_thumb_material_dark.xml"
+    }
+]

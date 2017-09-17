@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:16:1-57:12
+	package
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:17:5-68
+	android:versionName
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-v13:23.1.1] /home/ivan/.android/build-cache/0d05fd8979e77f36c1fdb074ca86169fe0882d79/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/ivan/.android/build-cache/2eebf1a69d79e147ce0a22c80e2211e65e8d60b5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:8.4.0] /home/ivan/.android/build-cache/846850d490bacb1881a621edc19de2460f640cf2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/ivan/.android/build-cache/3f74ceb68f598a52cd58265585c9f856b36c504f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/ivan/.android/build-cache/11daec6225e723c16f88f2ff2c2f66fd9f422148/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /home/ivan/.android/build-cache/01d3b6086613fe62b5332357697de73e0bd2567f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /home/ivan/.android/build-cache/b680f468595b4ffe36c27563872324d88d25b307/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /home/ivan/.android/build-cache/3724274eebe95fb536ed5fdaa8a181a7b4b8b776/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /home/ivan/.android/build-cache/2f6ec78c1a97e2e02f61b983c155692bcdb515a4/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /home/ivan/.android/build-cache/efa061e27ec32f6f993a14c466705f9513f77871/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /home/ivan/.android/build-cache/cc67efbed8d60363e71884075895a9eb5ba3d098/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/ivan/.android/build-cache/8f45a52642a704fd789e92da9ab43b84949d29d5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /home/ivan/.android/build-cache/9955fe4c969216aede0773505d68d27948e30ac5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/ivan/.android/build-cache/de6965bcad6e2b9d1fb354966f332d414823dc8b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /home/ivan/.android/build-cache/627f8d549832ed43233b53d20458d39d043b1258/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /home/ivan/.android/build-cache/b675362a56fcbe30f2c3bc4c658f62c4d67cca21/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /home/ivan/.android/build-cache/95fc0e2fa16df96ce8d3ccea6b65b1f6dd31d715/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /home/ivan/.android/build-cache/205992af3004b852dfcf8d64cdd35ba865d4542c/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] /home/ivan/.android/build-cache/04dbaa041e6a2072db31431b470f1446d16d57e3/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /home/ivan/.android/build-cache/536f04145c488afaf161b38faba0cc43a5f64c4c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/ivan/.android/build-cache/7382cbad518dfee6683d553e4fe73f4644950467/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /home/ivan/.android/build-cache/e8eda7a8a75133f81627882cb59aeb78ffe8e189/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/ivan/.android/build-cache/f78c9865267d45bd78b8e204965582499fa6cfa5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/ivan/.android/build-cache/02cab27eee3a38f2bc863472d53a184883c90bf3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] /home/ivan/.android/build-cache/809efd0aed9349f862479e1b79629266420d3384/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ivan/.android/build-cache/e76fad04ad30cae1d270598d971cfd01dbcc6576/output/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:23:9-38
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:22:9-35
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:26:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:27:22-77
+application
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:29:5-55:19
+MERGED from [com.android.support:support-v13:23.1.1] /home/ivan/.android/build-cache/0d05fd8979e77f36c1fdb074ca86169fe0882d79/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/ivan/.android/build-cache/2eebf1a69d79e147ce0a22c80e2211e65e8d60b5/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] /home/ivan/.android/build-cache/846850d490bacb1881a621edc19de2460f640cf2/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/ivan/.android/build-cache/3f74ceb68f598a52cd58265585c9f856b36c504f/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/ivan/.android/build-cache/11daec6225e723c16f88f2ff2c2f66fd9f422148/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /home/ivan/.android/build-cache/01d3b6086613fe62b5332357697de73e0bd2567f/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /home/ivan/.android/build-cache/b680f468595b4ffe36c27563872324d88d25b307/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /home/ivan/.android/build-cache/3724274eebe95fb536ed5fdaa8a181a7b4b8b776/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/ivan/.android/build-cache/ac1235fb84fd8c05a5281dfd6bf9a7113bf54e2a/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /home/ivan/.android/build-cache/2f6ec78c1a97e2e02f61b983c155692bcdb515a4/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /home/ivan/.android/build-cache/efa061e27ec32f6f993a14c466705f9513f77871/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /home/ivan/.android/build-cache/cc67efbed8d60363e71884075895a9eb5ba3d098/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/ivan/.android/build-cache/8f45a52642a704fd789e92da9ab43b84949d29d5/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /home/ivan/.android/build-cache/9955fe4c969216aede0773505d68d27948e30ac5/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/ivan/.android/build-cache/de6965bcad6e2b9d1fb354966f332d414823dc8b/output/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /home/ivan/.android/build-cache/627f8d549832ed43233b53d20458d39d043b1258/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /home/ivan/.android/build-cache/b675362a56fcbe30f2c3bc4c658f62c4d67cca21/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /home/ivan/.android/build-cache/95fc0e2fa16df96ce8d3ccea6b65b1f6dd31d715/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /home/ivan/.android/build-cache/205992af3004b852dfcf8d64cdd35ba865d4542c/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /home/ivan/.android/build-cache/536f04145c488afaf161b38faba0cc43a5f64c4c/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/ivan/.android/build-cache/7382cbad518dfee6683d553e4fe73f4644950467/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /home/ivan/.android/build-cache/e8eda7a8a75133f81627882cb59aeb78ffe8e189/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/ivan/.android/build-cache/02cab27eee3a38f2bc863472d53a184883c90bf3/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] /home/ivan/.android/build-cache/809efd0aed9349f862479e1b79629266420d3384/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ivan/.android/build-cache/e76fad04ad30cae1d270598d971cfd01dbcc6576/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:31:9-43
+	android:theme
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:33:9-67
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:34:9-36:71
+	android:value
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:36:13-68
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:35:13-58
+activity#com.example.google.playservices.placecompletefragment.MainActivity
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:39:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:44:27-74
+activity#com.example.google.playservices.placecompletefragment.RateThoseTates
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:47:9-54:20
+	android:label
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:49:13-68
+	android:parentActivityName
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:50:13-55
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:48:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:51:13-53:102
+	android:value
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:53:17-99
+	android:name
+		ADDED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:52:17-63
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/ivan/.android/build-cache/3f74ceb68f598a52cd58265585c9f856b36c504f/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /home/ivan/.android/build-cache/8f45a52642a704fd789e92da9ab43b84949d29d5/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/ivan/.android/build-cache/7382cbad518dfee6683d553e4fe73f4644950467/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/ivan/.android/build-cache/3f74ceb68f598a52cd58265585c9f856b36c504f/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /home/ivan/.android/build-cache/de6965bcad6e2b9d1fb354966f332d414823dc8b/output/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/ivan/.android/build-cache/7382cbad518dfee6683d553e4fe73f4644950467/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:21:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /home/ivan/.android/build-cache/83e4ab313e86c8622f82093a68991bec755c3a22/output/AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/ivan/.android/build-cache/26edcc9859ade71e09e16c70d2d4999f8dba5582/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/ivan/.android/build-cache/4664c106c7b0c132fd2056aabf939af1b323f341/output/AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] /home/ivan/.android/build-cache/8f45a52642a704fd789e92da9ab43b84949d29d5/output/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] /home/ivan/.android/build-cache/8f45a52642a704fd789e92da9ab43b84949d29d5/output/AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:29:11-76
+		INJECTED from /home/ivan/AndroidStudioProjects/android-play-places/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/ivan/.android/build-cache/11496fdb6586788ef800fabe344c3c3328b54259/output/AndroidManifest.xml:42:11-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] /home/ivan/.android/build-cache/7382cbad518dfee6683d553e4fe73f4644950467/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /home/ivan/.android/build-cache/7382cbad518dfee6683d553e4fe73f4644950467/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /home/ivan/.android/build-cache/7382cbad518dfee6683d553e4fe73f4644950467/output/AndroidManifest.xml:24:8-31
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] /home/ivan/.android/build-cache/02cab27eee3a38f2bc863472d53a184883c90bf3/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /home/ivan/.android/build-cache/02cab27eee3a38f2bc863472d53a184883c90bf3/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /home/ivan/.android/build-cache/02cab27eee3a38f2bc863472d53a184883c90bf3/output/AndroidManifest.xml:22:13-58
